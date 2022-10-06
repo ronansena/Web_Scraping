@@ -1,6 +1,6 @@
 # Web Scraping 
 
-<h1>Objetivo: Extrair e tratar os dados do site alvo, e gravar em uma tabela de banco de dados Mysql.</h1>
+<b>Objetivo: Extrair e tratar os dados do site alvo, e gravar em uma tabela de banco de dados Mysql.</b>
 
 Pré-requisitos no Linux:
 
